@@ -26,3 +26,6 @@ decision_tree_entropy = DecisionTreeClassifier(criterion='entropy', random_state
 
 # 训练模型
 model_entropy = decision_tree_entropy.fit(features, target)
+
+print(model_entropy.predict(observation))
+print(model_entropy.predict_proba(observation))
