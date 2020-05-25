@@ -15,8 +15,8 @@ standardizer = StandardScaler()
 # 标准化特征
 features_standardized = standardizer.fit_transform(features)
 
-# 创建一个KNN分类器
-knn = KNeighborsClassifier(n_neighbors=5, n_jobs=-1)
+# 创建一个KNN分类器（！！！！！使用 n_jobs=-1 会报错）
+knn = KNeighborsClassifier(n_neighbors=5)
 
 # 创建一个流水线
 pipe = Pipeline([("standardizer", standardizer), ("knn", knn)])
@@ -25,12 +25,7 @@ pipe = Pipeline([("standardizer", standardizer), ("knn", knn)])
 search_space = [{"knn__n_neighbors": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}]
 
 # 创建grid搜索
-# classifier = GridSearchCV(pipe, search_space, cv=5, verbose=0)
-# classifier.fit(features_standardized, target)
+classifier = GridSearchCV(pipe, search_space, cv=5, verbose=0).fit(features_standardized, target)
 
 # 显示最佳邻域的大小（k值）
-# print(classifier.estimator.get_params()["knn__n_neighbors"])
-
-'''
-BUG 真值Wie6 求得为5
-'''
+print(classifier.best_estimator_.get_params()["knn__n_neighbors"])
