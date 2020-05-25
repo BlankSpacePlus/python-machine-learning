@@ -16,7 +16,7 @@
 - [x] [处理日期和时间](https://github.com/ChenYikunReal/machine_learning_py_codes/datetime_processing)
 - [x] [图像处理](https://github.com/ChenYikunReal/machine_learning_py_codes/image_processing)
 - [x] [利用特征提取进行特征降维](https://github.com/ChenYikunReal/machine_learning_py_codes/feature_extraction)
-- [] [利用特征选择进行降维](https://github.com/ChenYikunReal/machine_learning_py_codes/feature_selection)
+- [x] [利用特征选择进行降维](https://github.com/ChenYikunReal/machine_learning_py_codes/feature_selection)
 - [] [模型评估](https://github.com/ChenYikunReal/machine_learning_py_codes/model_evaluation)
 - [] [模型选择](https://github.com/ChenYikunReal/machine_learning_py_codes/model_selection)
 - [x] [线性回归](https://github.com/ChenYikunReal/machine_learning_py_codes/linear_regression)
