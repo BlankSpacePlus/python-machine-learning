@@ -23,7 +23,7 @@
 - [x] [树和森林](https://github.com/ChenYikunReal/machine_learning_py_codes/tree_and_forest)
 - [x] [KNN](https://github.com/ChenYikunReal/machine_learning_py_codes/knn_algorithm)
 - [x] [逻辑回归](https://github.com/ChenYikunReal/machine_learning_py_codes/logistic_regression)
-- [] [支持向量机](https://github.com/ChenYikunReal/machine_learning_py_codes/svc_algorithm)
+- [x] [支持向量机分类器](https://github.com/ChenYikunReal/machine_learning_py_codes/svc_algorithm)
 - [x] [朴素贝叶斯](https://github.com/ChenYikunReal/machine_learning_py_codes/naive_bayes)
 - [x] [聚类](https://github.com/ChenYikunReal/machine_learning_py_codes/clustering)
 - [] [神经网络](https://github.com/ChenYikunReal/machine_learning_py_codes/neural_networks)
