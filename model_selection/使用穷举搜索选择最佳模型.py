@@ -8,7 +8,7 @@ features = iris.data
 target = iris.target
 
 # 创建逻辑回归对象
-logistic = linear_model.LogisticRegression()
+logistic = linear_model.LogisticRegression(solver="liblinear")
 
 # 创建正则化惩罚的候选超参数区间
 penalty = ['l1', 'l2']
