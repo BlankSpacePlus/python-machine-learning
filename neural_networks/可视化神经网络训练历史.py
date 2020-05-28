@@ -70,4 +70,3 @@ with PdfPages("神经网络训练历史可视化图.pdf") as pdf:
     pdf.savefig(fig)
     plt.close(fig)
     plt.show()
-

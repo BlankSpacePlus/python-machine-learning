@@ -41,4 +41,3 @@ predicted_target = network.predict(features_test)
 
 # 查看第一个观察值属于分类1的预测概率
 print(predicted_target[0])
-
