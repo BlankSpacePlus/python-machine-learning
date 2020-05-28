@@ -34,7 +34,7 @@ network.add(layers.Dense(units=1, activation="sigmoid"))
 network.compile(loss="binary_crossentropy", optimizer="rmsprop", metrics=["accuracy"])
 
 # 设置一个回调函数来提前结束训练，并保存训练结束时的最佳模型
-check_point = [ModelCheckpoint(filepath="callback_models.hdf5")]
+check_point = [ModelCheckpoint(filepath="callback_models_2.hdf5")]
 
 # 训练神经网络
 history = network.fit(features_train, target_train, epochs=3, callbacks=check_point, verbose=1, batch_size=100,
