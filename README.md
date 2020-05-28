@@ -28,3 +28,4 @@
 - [x] [聚类](https://github.com/ChenYikunReal/machine_learning_py_codes/clustering)
 - [x] [神经网络](https://github.com/ChenYikunReal/machine_learning_py_codes/neural_networks)
 - [x] [保存和加载训练后的数据](https://github.com/ChenYikunReal/machine_learning_py_codes/save_and_load)
+- [x] [基于JupyterNotebook的机器学习](https://github.com/ChenYikunReal/machine_learning_py_codes/jupyter_notebook)
