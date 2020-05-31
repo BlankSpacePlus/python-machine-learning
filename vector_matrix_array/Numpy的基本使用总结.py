@@ -1,6 +1,4 @@
-# 加载numpy库
 import numpy as np
-
 from scipy import sparse
 
 # 创建一个一维数组表示一个行向量
