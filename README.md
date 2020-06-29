@@ -1,5 +1,7 @@
 # machine_learning_py_codes
 
+![机器学习](machine_learning.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
 这里都是自己接触Python机器学习后的尝试代码<br/>
 原Repository遗址：<a href="https://github.com/ChenYikunReal/machine_learning_python_codes">https://github.com/ChenYikunReal/machine_learning_python_codes</a><br/>
 因为venv的问题，随着依赖库的增多，不得不剔除这些库，只提交code到Github上。因为操作问题和网速问题导致重建项目，tcl，orz……<br/>
@@ -29,3 +31,9 @@
 - [x] [神经网络](https://github.com/ChenYikunReal/machine_learning_py_codes/tree/master/neural_networks)
 - [x] [保存和加载训练后的数据](https://github.com/ChenYikunReal/machine_learning_py_codes/tree/master/save_and_load)
 - [x] [基于JupyterNotebook的机器学习](https://github.com/ChenYikunReal/machine_learning_py_codes/tree/master/jupyter_notebook)
+
+Python第三方库的下载遇到超时失败时，可以加上两个参数：<code>--no-cache-dir</code>和<code>--default-timeout=1000</code>。<br/>
+示例：
+```
+pip --no-cache-dir --default-timeout=1000 install xxx
+```
