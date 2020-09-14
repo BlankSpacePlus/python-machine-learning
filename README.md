@@ -31,7 +31,6 @@
 - [x] [聚类](https://github.com/ChenYikunReal/machine_learning_py_codes/tree/master/src/聚类)
 - [x] [神经网络](https://github.com/ChenYikunReal/machine_learning_py_codes/tree/master/src/神经网络)
 - [x] [保存和加载训练后的数据](https://github.com/ChenYikunReal/machine_learning_py_codes/tree/master/src/保存和加载训练后的数据)
-- [ ] [OpenCV学习](https://github.com/ChenYikunReal/machine_learning_py_codes/tree/master/src/OpenCV学习)
 
 Python第三方库的下载遇到超时失败时，可以加上两个参数：<code>--no-cache-dir</code>和<code>--default-timeout=1000</code>。<br/>
 示例：
