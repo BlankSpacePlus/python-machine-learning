@@ -73,6 +73,7 @@
 ![](http://latex.codecogs.com/gif.latex?\sqrt[3]{2}) ← **\sqrt[3]{2}**
 
 ![](http://latex.codecogs.com/gif.latex?\sqrt[n]{3}) ← **\sqrt[n]{3}**
+
 # 积分
 基本格式：
 <code>\int_{积分下限}^{积分上限}</code>
@@ -89,7 +90,7 @@
 样例：
 ![](http://latex.codecogs.com/gif.latex?\prod_{k=1}^{n}f(k)) ← **\prod_{k=1}^{n}f(k)**
 # 括号
-|   ![](http://latex.codecogs.com/gif.latex?( ) (   |  ![](http://latex.codecogs.com/gif.latex?| ) )  |  ![](http://latex.codecogs.com/gif.latex?[) \[  |  ![](http://latex.codecogs.com/gif.latex?] ) \]  |  ![](http://latex.codecogs.com/gif.latex?\{ ) \\{  |
+|   ![](http://latex.codecogs.com/gif.latex?\( ) \(   |  ![](http://latex.codecogs.com/gif.latex?\| ) \)  |  ![](http://latex.codecogs.com/gif.latex?\[) \[  |  ![](http://latex.codecogs.com/gif.latex?\] ) \]  |  ![](http://latex.codecogs.com/gif.latex?\{ ) \\{  |
 |:---:|:---:|:---:|:---:|:---:|
 |   ![](http://latex.codecogs.com/gif.latex?\\}) **\\}**   |  ![](http://latex.codecogs.com/gif.latex?\vert) **\vert**  |  ![](http://latex.codecogs.com/gif.latex?\Vert) **\Vert**  |  ![](http://latex.codecogs.com/gif.latex?/) **/**  |    |
 
@@ -100,16 +101,16 @@
 |   ![](http://latex.codecogs.com/gif.latex?\tan) **\tan**   |  ![](http://latex.codecogs.com/gif.latex?\arg) **\arg**  |  ![](http://latex.codecogs.com/gif.latex?\lg) **\lg**  |    |    |
 
 # 强调符号
-|   ![](http://latex.codecogs.com/gif.latex?\dot a) \dot a   |  ![](http://latex.codecogs.com/gif.latex?\ddot a) \ddot a  |  ![](http://latex.codecogs.com/gif.latex?\hat a) \hat a  |  ![](http://latex.codecogs.com/gif.latex?\tilde a) \tilde a  |  ![](http://latex.codecogs.com/gif.latex?\bar a) \bar a  |
+|   ![](http://latex.codecogs.com/gif.latex?\dot&space;{a}) \dot a   |  ![](http://latex.codecogs.com/gif.latex?\ddot&space;{a}) \ddot a  |  ![](http://latex.codecogs.com/gif.latex?\hat&space;{a}) \hat a  |  ![](http://latex.codecogs.com/gif.latex?\tilde&space;{a}) \tilde a  |  ![](http://latex.codecogs.com/gif.latex?\bar&space;{a}) \bar a  |
 |:---:|:---:|:---:|:---:|:---:|
-|   ![](http://latex.codecogs.com/gif.latex?\vec a) **\vec a**   |  ![](http://latex.codecogs.com/gif.latex?\overline{xyz}) **\overline{xyz}**  |  ![](http://latex.codecogs.com/gif.latex?\widehat{xyz}) **\widehat{xyz}**  |  ![](http://latex.codecogs.com/gif.latex?\widetilde{xyz}) **\widetilde{xyz}**  |    |
+|   ![](http://latex.codecogs.com/gif.latex?\vec&space;{a}) **\vec a**   |  ![](http://latex.codecogs.com/gif.latex?\overline{xyz}) **\overline{xyz}**  |  ![](http://latex.codecogs.com/gif.latex?\widehat{xyz}) **\widehat{xyz}**  |  ![](http://latex.codecogs.com/gif.latex?\widetilde{xyz}) **\widetilde{xyz}**  |    |
 
 # 矩阵
 |   ![](http://latex.codecogs.com/gif.latex?\cdots) \cdots   |  ![](http://latex.codecogs.com/gif.latex?\ldots) \ldots  |  ![](http://latex.codecogs.com/gif.latex?\vdots) \vdots  |  ![](http://latex.codecogs.com/gif.latex?\ddots) \ddots  |
 |:---:|:---:|:---:|:---:|
 
 # 其他常用符号
-|   ![](http://latex.codecogs.com/gif.latex?white space) white space   |  ![](http://latex.codecogs.com/gif.latex?\backprime) \backprime  |  ![](http://latex.codecogs.com/gif.latex?\prime) \prime  |
+|   ![](http://latex.codecogs.com/gif.latex?\ ) white space   |  ![](http://latex.codecogs.com/gif.latex?\backprime) \backprime  |  ![](http://latex.codecogs.com/gif.latex?\prime) \prime  |
 |:---:|:---:|:---:|:---:|
 
 
