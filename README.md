@@ -1,6 +1,6 @@
 # machine_learning_py_codes
 
-![机器学习](/blob/master/images/machine_learning.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![机器学习](https://github.com/ChenYikunReal/machine_learning_py_codes/blob/master/images/machine_learning.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
 
 这里都是自己接触Python机器学习后的尝试代码<br/>
 原Repository遗址：<a href="https://github.com/ChenYikunReal/machine_learning_python_codes">https://github.com/ChenYikunReal/machine_learning_python_codes</a><br/>
