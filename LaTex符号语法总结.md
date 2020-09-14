@@ -92,7 +92,7 @@
 样例：
 ![](http://latex.codecogs.com/gif.latex?\prod_{k=1}^{n}f(k)) ← **\prod_{k=1}^{n}f(k)**
 ## 括号
-|   ![](http://latex.codecogs.com/gif.latex?\( ) \(   |  ![](http://latex.codecogs.com/gif.latex?\| ) \)  |  ![](http://latex.codecogs.com/gif.latex?\[) \[  |  ![](http://latex.codecogs.com/gif.latex?\] ) \]  |  ![](http://latex.codecogs.com/gif.latex?\{ ) \\{  |
+|   ![](http://latex.codecogs.com/gif.latex?\( ) \(   |  ![](http://latex.codecogs.com/gif.latex?\| ) \)  |  ![](http://latex.codecogs.com/gif.latex?\[) \[  |  ![](http://latex.codecogs.com/gif.latex?\] ) \]  |  ![](http://latex.codecogs.com/gif.latex?{) \\{  |
 |:---:|:---:|:---:|:---:|:---:|
 |   ![](http://latex.codecogs.com/gif.latex?\\}) **\\}**   |  ![](http://latex.codecogs.com/gif.latex?\vert) **\vert**  |  ![](http://latex.codecogs.com/gif.latex?\Vert) **\Vert**  |  ![](http://latex.codecogs.com/gif.latex?/) **/**  |    |
 
