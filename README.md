@@ -3,10 +3,10 @@
 ![机器学习](images/machine_learning.jpg)
 
 这里都是自己接触Python机器学习后的尝试代码<br/>
-原Repository遗址：[这里](../machine_learning_python_codes)<br/>
+原Repository遗址：[这里](../../../machine_learning_python_codes)<br/>
 因为venv的问题，随着依赖库的增多，不得不剔除这些库，只提交code到Github上。因为操作问题和网速问题导致重建项目，tcl，orz……<br/>
-文本处理的Repository遗址：[这里](../python_text_processing_training)<br/>
-图像处理的Repository遗址：[这里](../python_image_processing_training)<br/>
+文本处理的Repository遗址：[这里](../../../python_text_processing_training)<br/>
+图像处理的Repository遗址：[这里](../../../python_image_processing_training)<br/>
 
 - [x] [数据文件](src/data_files)
 - [x] [向量矩阵数组](src/向量矩阵数组)
@@ -32,7 +32,7 @@
 - [x] [神经网络](src/神经网络)
 - [x] [保存和加载训练后的数据](src/保存和加载训练后的数据)
 
-Python第三方库的下载遇到超时失败时，可以加上两个参数：<code>--no-cache-dir</code>和<code>--default-timeout=1000</code>。<br/>
+Python第三方库的下载遇到超时失败时，可以加上两个参数：`--no-cache-dir`和`--default-timeout=1000`。<br/>
 示例：
 ```shell
 pip --no-cache-dir --default-timeout=1000 install xxx
