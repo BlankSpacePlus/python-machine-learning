@@ -5,8 +5,8 @@
 这里都是自己接触Python机器学习后的尝试代码<br/>
 原Repository遗址：[这里](../../../machine_learning_python_codes)<br/>
 因为venv的问题，随着依赖库的增多，不得不剔除这些库，只提交code到Github上。因为操作问题和网速问题导致重建项目，tcl，orz……<br/>
-文本处理的Repository遗址：[这里](../../../python-text-processing-training)<br/>
-图像处理的Repository遗址：[这里](../../../python-image-processing-training)<br/>
+文本处理的Repository遗址：[这里](../../../python-text-processing-learning)<br/>
+图像处理的Repository遗址：[这里](../../../python-image-processing-learning)<br/>
 
 - [x] [数据文件](src/data_files)
 - [x] [向量矩阵数组](src/向量矩阵数组)
